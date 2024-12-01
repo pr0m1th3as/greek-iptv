@@ -12,6 +12,7 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="MEGA" tvg-logo="https://i.imgur.com/Dy4RR7G.png",MEGA HD
 https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670&core.minBufferTime=2000&player.aspectRatio=16:9&player.fullscreenButtonEnabled=false&castEnabled=false
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" tvg-logo="https://i.imgur.com/V1w22Or.png",ANT1 HD
+#KODIPROP:inputstream=inputstream.adaptive
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ALPHA" tvg-logo="https://i.imgur.com/utv0rWj.png",ALPHA HD
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
@@ -22,6 +23,7 @@ http://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OPEN" tvg-logo="https://i.imgur.com/72GOh2Z.png",OPEN TV HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="MAK TV" tvg-logo="https://i.imgur.com/55NSQ50.png",MAK. HD
+#KODIPROP:inputstream=inputstream.adaptive
 http://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="ErtFlix Kids" tvg-logo="https://i.ibb.co/Tv1hStJ/ertkids.jpg",ErtFlix Kids
 http://ertflix.s.llnwi.net/ertlive/kids/default/index.m3u8
